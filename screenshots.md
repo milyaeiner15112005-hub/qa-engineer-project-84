@@ -138,3 +138,8 @@
   <summary>Рисунок52.png</summary>
   <img width="624" height="351" alt="Рисунок52" src="https://github.com/user-attachments/assets/b97f62d0-5795-4ee0-8769-3a5e41bed6a7" />
 </details>
+
+<details>
+  <summary>Рисунок53.png</summary>
+  <img width="624" height="351" alt="Рисунок53" src="https://github.com/user-attachments/assets/04971674-2cdd-4983-bda8-a66f5e08d136" />
+</details>
