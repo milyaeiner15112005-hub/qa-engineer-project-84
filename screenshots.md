@@ -35,16 +35,6 @@
 </details>
 
 <details>
-  <summary>Рисунок29.png</summary>
-  <img width="624" height="351" alt="Рисунок29" src="https://github.com/user-attachments/assets/c7541048-b29c-4ab0-a4f1-012851ccabe5" />
-</details>
-
-<details>
-  <summary>Рисунок30.png</summary>
-  <img width="624" height="351" alt="Рисунок30" src="https://github.com/user-attachments/assets/895ebf77-565a-4f33-baf0-2d16f801c768" />
-</details>
-
-<details>
   <summary>Рисунок31.png</summary>
   <img width="624" height="351" alt="Рисунок31" src="https://github.com/user-attachments/assets/ca12b2bc-1d54-406e-b55f-0a854a99a958" />
 </details>
